@@ -1,0 +1,17 @@
+
+*{
+    margin-top: 20px;
+}
+button{
+    color: rgb(34, 129, 218);  
+    border-color: rgb(218, 211, 211); 
+    background-color: white;
+}
+.active{
+    background-color: dodgerblue;
+    color: white;
+}
+button:hover{
+    background-color: lightgrey;
+}
+
